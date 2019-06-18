@@ -4,7 +4,7 @@
 
 1 Ensure you have Visual Studio 2017 installed
 
-2 Download everything from https://github.com/abonje2000/COMMUNITYCOURSEWORK.git to your computer
+2 Download everything from https://github.com/lahdayg/GiftreteCommunity to your computer
 
 3 Double click on Visual Studio to open
 
